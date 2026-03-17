@@ -1,6 +1,8 @@
 # gwqs
 Weighted Quantile Sum (WQS) regression Use gwqs (gWQS) With (In) R Software
 
+https://www.youtube.com/watch?v=v4HgCsb4YxU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
